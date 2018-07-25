@@ -1,0 +1,11 @@
+.blue {
+    background-color: blue
+}
+.fontWhite {
+    color: white
+}
+.border {
+    border-top: 10px solid cornflowerblue;
+    padding-top: .5rem;
+    display: inline-block;
+}
